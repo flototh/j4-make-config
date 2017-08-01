@@ -39,8 +39,8 @@ exec_always --no-startup-id xsetroot -solid '$baseA2'
 # solarized (clean)
 ###################
 # clientclass 			border  backgr. text 	indicator
-client.focused 			$blue	$blue	$baseB3 $cyan
-client.focused_inactive		$cyan	$cyan	$baseB2 $violet
+client.focused 			$blue	$blue	$baseB3 $yellow
+client.focused_inactive		$cyan	$cyan	$baseB2 $cyan
 client.unfocused  		$baseA2 $baseA2 $baseB1 $baseA1
 #client.urgent 	 		$orange $orange $baseB3 $red
 client.urgent 	 		$yellow $yellow $baseB3 $orange
